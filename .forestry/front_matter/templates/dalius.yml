@@ -1,4 +1,14 @@
 ---
 label: dalius
 hide_body: false
-fields: []
+fields:
+- name: ffafafafafa
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: ffafafafafa
+  description: adfadf
